@@ -1,0 +1,8 @@
+export const SET_CUSTOMER = "SET_CUSTOMER";
+export const SET_CUSTOMERS = "SET_CUSTOMERS";
+export const POST_CUSTOMER = "POST_CUSTOMER";
+export const EDIT_CUSTOMER = "EDIT_CUSTOMER";
+export const DELETE_CUSTOMER = "DELETE_CUSTOMER";
+export const SET_ERRORS = "SET_ERRORS";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+export const LOADING_DATA = "LOADING_DATA";
